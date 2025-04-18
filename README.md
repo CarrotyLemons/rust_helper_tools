@@ -1,0 +1,1 @@
+A set of useful rust macros and other elements I have made that I find useful in more than one project.
