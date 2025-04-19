@@ -1,5 +1,5 @@
 [package]
-name = "helper_tools"
+name = "rust_helper_tools"
 version = "0.1.0"
 edition = "2021"
 
