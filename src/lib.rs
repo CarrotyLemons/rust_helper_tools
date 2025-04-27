@@ -13,6 +13,7 @@ pub trait Floats:
     + Copy
     + Sized
     + PartialOrd
+    + Default
 {
 }
 
